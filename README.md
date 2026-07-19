@@ -21,7 +21,7 @@ Features:
 2. In the repo, go to **Settings → Pages**.
 3. Under **Build and deployment**, set Source to **Deploy from a branch**, pick `main` and `/ (root)`, then save.
 4. After a minute, your app is live at `https://<your-username>.github.io/<repo-name>/`.
-5. For me: `https://nmaccabe.github.io/pdf-merge/`
+5. For me: [https://nmaccabe.github.io/pdf-merge/](https://nmaccabe.github.io/pdf-merge/)
 
 ## Run it locally
 
